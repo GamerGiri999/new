@@ -3,9 +3,9 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 
 START_MESSAGE = '''**Hello, {}
-I Am Moneycase.link, Bulk Link Converter. I Can Convert Links Directly From Your Moneycase Account,
+I Am zxlink.in, Bulk Link Converter. I Can Convert Links Directly From Your zxlink.in Account,
     
-1. Go To 👉 https://Moneycase.link/member/tools/api  
+1. Go To 👉 https://zxlink.in/member/tools/api  
 2. Than Copy API Key
 3. Than Type /api than give a single space and than paste your API Key (see example to understand more...)**
 
@@ -22,9 +22,9 @@ If You Want Any **Other Shortner** Link Converter Bot Instead Of Moneycase than 
 '''
 
 HELP_MESSAGE = '''**Hello, {}
-I Am Moneycase, Bulk Link Converter Bot. I Can Convert Links Directly From Your Moneycase Account,**
+I Am zxlink.in, Bulk Link Converter Bot. I Can Convert Links Directly From Your zxlink.in Account,**
     
-1. Go To 👉 https://Moneycase.link/member/tools/api  
+1. Go To 👉 https://zxlink.in/member/tools/api  
 2. Than **Copy API** Key
 3. Than Type **/api** than give a **single space** and than **paste** your **API** Key (**see example** to understand more...)
 
@@ -37,14 +37,14 @@ Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 **➕ Hit** 👉 /channel Command To Get Help About Adding your channel to bot.
 **➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
 
-If You Want Any **Other Shortner** Link Converter Bot Instead Of ""Moneycase** than **contact** at 👉 @Playitlinksofficial (all **shortners support** available.)**
+If You Want Any **Other Shortner** Link Converter Bot Instead Of ""zxlink.in** than **contact** at 👉 @Playitlinksofficial (all **shortners support** available.)**
 '''
 
-ABOUT_TEXT = '''**Hey! My name is @MoneyCaselinkConverterBot. I am Moneycase Link Converter Bot.**
+ABOUT_TEXT = '''**Hey! My name is @zxlinkbot. I am zxlink.in Link Converter Bot.**
 
 **⚡Features⚡**
 
-• I can **Convert any** links or posts to your **Moneycase** link / post. (Button Links Posts, Hidden links/Hyperlinks All Are Supported)
+• I can **Convert any** links or posts to your **zxlink.in** link / post. (Button Links Posts, Hidden links/Hyperlinks All Are Supported)
 
 • I Can **auto** add custom **footer text** to your every post. Hit 👉 /footer To know more...
 
@@ -65,7 +65,7 @@ CUSTOM_ALIAS_MESSAGE = """For Custom Alias, `[link] | [custom_alias]`, Send in t
 
 This feature works only in private mode only
 
-Ex: https://t.me/Ediskofficial / | Moneycase"""
+Ex: https://t.me/Ediskofficial / | zxlink.in"""
 
 
 ADMINS_MESSAGE = """
@@ -110,7 +110,7 @@ BACK_REPLY_MARKUP = InlineKeyboardMarkup([
 ])
 
 USER_ABOUT_MESSAGE = """
-- Website: [{base_site}](https://shortnerflyMoneycase.link/ref/playitlinks)
+- Website: [{base_site}](https://zxlink.in/ref/playitlinks)
 
 - Site Link {base_site} Current Linked API: {shortener_api}
 
@@ -131,7 +131,7 @@ SHORTENER_API_MESSAGE = """To add or update your Shortner Website API,
             
 Ex: `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 
-Get API From [{base_site}](https://Moneycase.link/ref/playitlinks)
+Get API From [{base_site}](https://zxlink.in/ref/playitlinks)
 
 Current {base_site} API: `{shortener_api}`"""
 
@@ -149,7 +149,7 @@ This Text will be added to the **bottom** of every message **caption** or text
 For adding **line break** use \n
 To Remove Footer Text: `/footer remove`"""
 
-USERNAME_TEXT = """**Hello Harman, I am Moneycase.link, Bulk Link Converter Bot From Linked Moneycase.link Account,**
+USERNAME_TEXT = """**Hello Harman, I am zxlink.in, Bulk Link Converter Bot From Linked zxlink.in Account,**
 
 **🌟 Type** /channel (channel link or username)
 
