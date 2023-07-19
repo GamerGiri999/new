@@ -154,9 +154,9 @@ USERNAME_TEXT = """**Hello Harman, I am zxlink.in, Bulk Link Converter Bot From 
 **🌟 Type** /channel (channel link or username)
 
 **example:**
-/channel @Ediskofficial
+/channel @Short_zxlink
 Or
-/channel https://t.me/Ediskofficial
+/channel https://t.me/Short_zxlink
 
 **🤘 Hit** 👉 /features To Know More Features Of This Bot.
 
