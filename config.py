@@ -10,13 +10,13 @@ load_dotenv()
 API_ID = int(os.getenv("API_ID", "25479482"))
 API_HASH = os.environ.get("API_HASH", "6ab604ff91a73fb91cc6526818e28ab1")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "6359013554:AAFOoTchMD2Iwo-D-YubXwbr8TlISjQNhJw")
-ADMINS = [int(i.strip()) for i in os.environ.get("ADMINS").split("5736579519","5472718122")] if os.environ.get("ADMINS") else []
+ADMINS = [int(i.strip()) for i in os.environ.get("ADMINS").split("5736579519")] if os.environ.get("ADMINS") else []
 ADMIN = ADMINS
 DATABASE_NAME = os.environ.get("DATABASE_NAME", "zxlink")
 DATABASE_URL = os.getenv("DATABASE_URL", "mongodb+srv://devilbot:Rajbot@cluster0.ldrbggy.mongodb.net/?retryWrites=true&w=majority") 
-OWNER_ID =  int(os.environ.get("OWNER_ID", "5736579519","5472718122")) 
+OWNER_ID =  int(os.environ.get("OWNER_ID", "5736579519")) 
 ADMINS.append(OWNER_ID) if OWNER_ID not in ADMINS else []
-ADMINS.append("5736579519","5472718122")
+ADMINS.append("5736579519")
 #  Optionnal variables
 LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1001894325191")) 
 UPDATE_CHANNEL = os.environ.get("UPDATE_CHANNEL", "Short_zxlink") # For Force Subscription
