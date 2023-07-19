@@ -18,7 +18,7 @@ Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 **➕ Hit** 👉 /channel Command To Get Help About Adding your channel to bot.
 **➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
 
-If You Want Any **Other Shortner** Link Converter Bot Instead Of Moneycase than **contact** at 👉 @Playitlinksofficial (all **shortners** support available.)
+If You Want Any **Other Shortner** Link Converter Bot Instead Of zxlink.in than **contact** at 👉 @Playitlinksofficial (all **shortners** support available.)
 '''
 
 HELP_MESSAGE = '''**Hello, {}
@@ -96,7 +96,7 @@ HELP_REPLY_MARKUP = InlineKeyboardMarkup([
 
 START_MESSAGE_REPLY_MARKUP  = InlineKeyboardMarkup([
     [
-        InlineKeyboardButton('Get Api', url=f'https://Moneycase.link/member/tools/api')
+        InlineKeyboardButton('Get Api', url=f'https://zxlink.in/member/tools/api')
     ]
 ])
 
