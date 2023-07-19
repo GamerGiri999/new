@@ -56,7 +56,7 @@ ABOUT_TEXT = '''**Hey! My name is @zxlinkbot. I am zxlink.in Link Converter Bot.
 @Playitlinksofficial
 • **No** need to share **password or email** to convert links.**
 
- Anyone who want to use any **other shortner** instead of ShortnerFly than **contact** at 👉 @Playitlinksofficial (all **shortners support** available.)
+ Anyone who want to use any **other shortner** instead of zxlink than **contact** at 👉 @Playitlinksofficial (all **shortners support** available.)
 
 **Click On Custom Alias To Create Custom Link**
 '''
@@ -160,7 +160,7 @@ Or
 
 **🤘 Hit** 👉 /features To Know More Features Of This Bot.
 
-**- Message @Playitlinksofficial For More Help -**"""
+**- Message @Zxlink07 For More Help -**"""
 
 BANNER_IMAGE = """
 Usage: `/banner_image image_url` or reply to any Image with this command
